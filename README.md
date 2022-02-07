@@ -13,5 +13,5 @@ https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 6. BERT
 
 # See also
-https://www.kaggle.com/frhtas/sentiment-analysis-on-movie-reviews-with-bert
-https://frhtas.medium.com/python-ve-bert-ile-film-yorumlar%C4%B1-%C3%BCzerinde-duygu-analizi-ba854a21c179
+- https://www.kaggle.com/frhtas/sentiment-analysis-on-movie-reviews-with-bert
+- https://frhtas.medium.com/python-ve-bert-ile-film-yorumlar%C4%B1-%C3%BCzerinde-duygu-analizi-ba854a21c179
